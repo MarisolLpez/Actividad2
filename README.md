@@ -1,2 +1,2 @@
 # Actividad2
-gustavo perpetua
+Juan Emilio Elizondo
